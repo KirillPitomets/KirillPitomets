@@ -17,21 +17,21 @@ My favorite animes are OnePiece, Bleach & Blue Lock.
 **Skills:**
 </br>
 
-<code><img height="25"	src="./assets/ts.svg"></code>
-<code><img height="25"	src="./assets/js.svg"></code>
-<code><img height="25"	src="./assets/nodejs.svg"></code>
-<code><img height="25"	src="./assets/react.svg"></code>
-<code><img height="25"	src="./assets/html.svg"></code>
-<code><img height="25"	src="./assets/css.svg"></code>
-<code><img height="25"	src="./assets/scss.svg"></code>
-<code><img height="25"	src="./assets/gitHub.svg"></code>
+<code><img height="25" alt="Type Script"	src="./assets/ts.svg"></code>
+<code><img height="25" alt="Java Script"	src="./assets/js.svg"></code>
+<code><img height="25" alt="node Js"	src="./assets/nodejs.svg"></code>
+<code><img height="25" alt="React"	src="./assets/react.svg"></code>
+<code><img height="25" alt="HTML"	src="./assets/html.svg"></code>
+<code><img height="25" alt="CSS"	src="./assets/css.svg"></code>
+<code><img height="25" alt="scss"	src="./assets/scss.svg"></code>
+<code><img height="25" alt="github"	src="./assets/gitHub.svg"></code>
 
 **Tools:**
 </br>
 
-<code><img height="25" src="./assets/visualStudio.svg"></code>
-<code><img height="25" src="./assets/vscode.svg"></code>
-<code><img height="25" src="./assets/sublimeText.svg"></code>
+<code><img height="25" alt="Visual Studio" src="./assets/visualStudio.svg"></code>
+<code><img height="25" alt="Visual Studio Code" src="./assets/vscode.svg"></code>
+<code><img height="25" alt="Sublime Text" src="./assets/sublimeText.svg"></code>
 
 **I want to learn:**
 </br>
@@ -41,10 +41,10 @@ My favorite animes are OnePiece, Bleach & Blue Lock.
 **I engoy to play games like:**
 </br>
 
-<code><img height="25"	src="./assets/dota2.svg"></code>
-<code><img height="25"	src="./assets/valorant.svg"></code>
-<code><img height="25"	src="./assets/worldOfWarcraft.png"></code>
-<code><img height="25"	src="./assets/csGo.png"></code>
+<code><img height="25" alt="dota 2"	src="./assets/dota2.svg"></code>
+<code><img height="25" alt="Valorant"	src="./assets/valorant.svg"></code>
+<code><img height="25" alt="World Of Warcraft"	src="./assets/worldOfWarcraft.png"></code>
+<code><img height="25" alt="Counter Strike: Global Offensive"	src="./assets/csGo.png"></code>
 
 **Contacts:**
 
