@@ -24,7 +24,7 @@ My favorite animes are OnePiece, Bleach & Blue Lock.
 <code><img height="25" alt="HTML"	src="./assets/html.svg"></code>
 <code><img height="25" alt="CSS"	src="./assets/css.svg"></code>
 <code><img height="25" alt="scss"	src="./assets/scss.svg"></code>
-<code><img height="25" alt="github"	src="./assets/gitHub.svg"></code>
+<code><img height="25" alt="github"	src="./assets/github.svg"></code>
 
 **Tools:**
 </br>
