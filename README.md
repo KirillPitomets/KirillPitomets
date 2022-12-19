@@ -1,12 +1,18 @@
 ## Hi there 👋, I'm Kirill :)
+
 <img align="right" src='./assets/gifs/Tanjirou-demon-slayer.gif' />
 <!-- <img height="400" align="center" src='./assets/giphy.gif' /> -->
 
 ### About me
+
 I'm a FrontEnd developer from Ukraine <img height="10" src="./assets/ukraineFlag.svg"></br>
 I've been writing FrontEnd for a year. </br>
 Recently started learning BackEnd technologies. </br>
 Also want to learn C++ to improve my Comptuer Sience knolendlge.
+
+In my spare time I love watch various anime or read programming books :3 </br>
+My favorite animes are OnePiece, Bleach & Blue Lock.
+
 
 **Skills:**
 </br>
@@ -18,6 +24,7 @@ Also want to learn C++ to improve my Comptuer Sience knolendlge.
 <code><img height="25"	src="./assets/html.svg"></code>
 <code><img height="25"	src="./assets/css.svg"></code>
 <code><img height="25"	src="./assets/scss.svg"></code>
+<code><img height="25"	src="./assets/gitHub.svg"></code>
 
 **Tools:**
 </br>
@@ -40,6 +47,7 @@ Also want to learn C++ to improve my Comptuer Sience knolendlge.
 <code><img height="25"	src="./assets/csGo.png"></code>
 
 **Contacts:**
+
 <p> 
 	<img height="25" align="center" src="./assets/gmail.svg"> 
 	<a href="mailto:pitometsk@gmail.com">
@@ -55,9 +63,8 @@ Also want to learn C++ to improve my Comptuer Sience knolendlge.
 </p>
 
 <p> 
-	<img height="25" align="center" src="./assets/discord.svg" target="_blank" > 
-	<a href="https://t.me/vokerK" target="_blank" >
+	<img height="25" align="center" src="./assets/discord.svg" target="_blank" >
+	<a href="https://discordapp.com/users/0340" target="_blank" >
 		KirillVaran#0340
 	</a>
 </p>
-
