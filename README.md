@@ -13,6 +13,9 @@ Also want to learn C++ to improve my Comptuer Sience knolendlge.
 In my spare time I love watch various anime or read programming books :3 </br>
 My favorite animes are OnePiece, Bleach & Blue Lock.
 
+<a src="https://www.codewars.com/users/KirillPitomets" target="_blank"> 
+<img src="https://www.codewars.com/users/KirillPitomets/badges/large" >
+</a>
 
 **Skills:**
 </br>
